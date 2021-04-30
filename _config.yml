@@ -101,7 +101,8 @@ ignore:
 ## Themes: https://hexo.io/themes/
 
 # theme: landscape
-theme: magnetic
+# theme: magnetic
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

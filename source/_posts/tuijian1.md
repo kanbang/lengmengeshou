@@ -4,6 +4,8 @@ date: 2021-04-29 14:02:37
 tags:
 cover_index: /assets/xbl1.jpg
 cover_detail: /assets/banner.jpg
+top_img: /assets/xbl1.jpg
+cover: /assets/xbl1.jpg
 ---
 
 
