@@ -1,8 +1,13 @@
 ---
-title: 冷门歌手网易云歌单
-date: 2021-05-07 15:18:22
-tags:
+title: tmp
+date: 2020-05-07 15:18:22
+tags: 
+- hexo
+- note
 
+categories:
+- [就是玩]
+- [学习笔记]
 ---
 
 
@@ -68,3 +73,23 @@ if theme.aside.card_map
 效果如下：
 
 
+
+
+一、Cannot GET /tags/：
+步骤一：
+$ hexo new page "tags"
+
+步骤二：将source/tags文件夹下index.md文件里的内容修改为（复制可用）：
+---
+type: "tags"
+layout: "tags"
+comments: false
+---
+
+
+
+hexo new page link
+
+hexo new page categories
+
+hexo new page tags

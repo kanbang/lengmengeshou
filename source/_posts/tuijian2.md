@@ -6,6 +6,8 @@ cover_index: /assets/xbl2.jpg
 cover_detail: /assets/banner.jpg
 top_img: /assets/xbl2.jpg
 cover: /assets/xbl2.jpg
+categories:
+- [燕姿]
 ---
 
 ![澄清](/assets/xbl2.jpg)

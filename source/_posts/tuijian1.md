@@ -5,9 +5,12 @@ tags:
 cover_index: /assets/xbl1.jpg
 cover_detail: /assets/banner.jpg
 cover: /assets/xbl1.jpg
+categories:
+- [燕姿]
 ---
 
 
-{% meting "6733470472" "netease" "playlist" "theme:#FF4081" "mode:circulation" "mutex:true" "listmaxheight:340px" "preload:auto" %}
-
 ![推荐](/assets/xbl1.jpg)
+
+
+{% meting "6733470472" "netease" "playlist" "theme:#FF4081" "mode:circulation" "mutex:true" "listmaxheight:340px" "preload:auto" %}

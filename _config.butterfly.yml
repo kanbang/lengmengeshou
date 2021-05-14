@@ -13,12 +13,12 @@ menu:
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  友链: /link/ || fas fa-link
+#  友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
-  清单||fas fa-list:
-     - 音乐 || /music/ || fas fa-music
-     - 电影 || /movies/ || fas fa-video
-     - 照片 || /Gallery/ || fas fa-images
+#  清单||fas fa-list:
+#     - 音乐 || /music/ || fas fa-music
+#     - 电影 || /movies/ || fas fa-video
+#     - 照片 || /Gallery/ || fas fa-images
 
 
 # Hide the child menu items in mobile sidebar
@@ -649,10 +649,11 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/login?return_to=%2Fkanbang
+
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 下雨天和音乐很配哦~
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -853,6 +854,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/css/bilibili.css">  
   bottom:
     # - <script src="xxxx"></script>
 
