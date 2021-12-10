@@ -1,0 +1,8 @@
+bottom:
+    - class_name: user-map
+      id_name: user-map
+      name: 访客地图
+      icon: fas fa-heartbeat
+      order:
+      html: '<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5aeckr6j4pu&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>'
+      # https://www.revolvermaps.com/?target=setupgl
