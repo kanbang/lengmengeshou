@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://lengmengeshou.com
+url: https://www.lengmengeshou.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -40,8 +40,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-
 post_asset_folder: true #kk default: false
+marked:
+  prependRoot: true
+  postAsset: true
 
 relative_link: false
 future: true
@@ -99,9 +101,6 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-
-# theme: landscape
-# theme: magnetic
 theme: butterfly
 
 # Deployment
@@ -109,10 +108,11 @@ theme: butterfly
 deploy:
   type: ''
 
+
+##############################################################
+
 aplayer:
   meting: true
-
-
 
 
 hexo-tag-dplayer:
