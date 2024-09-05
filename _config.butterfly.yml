@@ -13,7 +13,7 @@ menu:
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-#  友链: /link/ || fas fa-link
+  友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 #  清单||fas fa-list:
 #     - 音乐 || /music/ || fas fa-music
@@ -209,8 +209,8 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text:
-  copyright: true # Copyright of theme and framework
+  custom_text: '<img src="/assets/beian.png" style="vertical-align: middle"> <a href="https://beian.miit.gov.cn/" target="_blank" style="vertical-align: middle">（鲁ICP备16033919号-2）</a>'
+  copyright: false # Copyright of theme and framework
 
 # aside (側邊欄)
 # --------------------------------------

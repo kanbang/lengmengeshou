@@ -1,0 +1,21 @@
+- class_name: 有趣
+  class_desc: 有趣
+  link_list:
+    - name: 猿声载道
+      link: https://www.usdraw.com
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 猿声载道，
+
+- class_name: 有用
+  class_desc: 有用
+  link_list:
+  
+    - name: 燕姿鼓励师
+      link: https://marketplace.visualstudio.com/items?itemName=kanbang.syz
+      avatar: https://kanbang.gallerycdn.vsassets.io/extensions/kanbang/syz/0.1.13/1622023158187/Microsoft.VisualStudio.Services.Icons.Default
+      descr: 写代码不再孤单，孙燕姿与你同在
+    - name: Desmos
+      link: https://desmos.com/calculator?lang=zh-CN
+      avatar: https://desmos.com/favicon.ico
+      descr: 在线图形计算器
+
